@@ -1,0 +1,12 @@
+{
+    "name": "SystemRequirementValidationDocument",
+    "className": "CustomApp",
+    "server": "https://rally1.rallydev.com",
+    "sdk": "1.32",
+    "javascript": [
+        "SystemRequirementValidationDocument.js"
+    ],
+    "css": [
+        "SystemRequirementValidationDocument.css"
+    ]
+}
